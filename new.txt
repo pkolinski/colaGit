@@ -2,3 +2,5 @@ sdf --Tutaj te¿ zmienia³ Wilq --
 
 
 do brancha
+
+To jest mega HOTFIX w master
